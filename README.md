@@ -3,7 +3,7 @@
 🎓 **Bachelor's Student in Computer Engineering** at University of Tehran  
 🔬 **Researcher at Institute of AI & Cognitive Technologies (Bank Mellat)**  
 
-📫 Reach me at: **your.email@example.com**  
+📫 Reach me at: alborz.mhn@gmail.com  
 🔗 Connect: [LinkedIn](https://www.linkedin.com/in/alborz-mahmoudian-b70185335/)
 
 ## 🛠️ Languages & Tools  
@@ -53,8 +53,6 @@
 </p>
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alborzmhn&layout=compact&theme=radical)  
 
----
-⭐️ From [alborzmhn](https://github.com/alborzmhn)
